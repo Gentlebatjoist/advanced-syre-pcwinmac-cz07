@@ -1,4 +1,4 @@
-# 
+# 即时 Advanced SystemCare 预设 Mac OS版 | 官方 Advanced SystemCare 预设 PC Windows版。集成 进程优先级 和 服务优化，跨平台性能最大化。
 
 
 
